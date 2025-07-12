@@ -28,7 +28,16 @@ body {
     background-image: url('imagens/pattern003.png');
 }
 
+a {
+    text-decoration: none;
+    color: blue;
+}
 
+
+#q4 {
+    background-image: url('imagens/pattern003.png');
+    background-repeat: no-repeat;
+}
 
 
  
